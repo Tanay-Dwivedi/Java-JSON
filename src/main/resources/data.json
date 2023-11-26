@@ -1,0 +1,130 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 30,
+    "date_of_birth": "1993-05-15",
+    "phone_number": "+1234567890",
+    "country": "United States",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "age": 25,
+    "date_of_birth": "1998-11-20",
+    "phone_number": "+9876543210",
+    "country": "Canada",
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "age": 35,
+    "date_of_birth": "1988-07-10",
+    "phone_number": "+1122334455",
+    "country": "Australia",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Eva Davis",
+    "email": "eva.davis@example.com",
+    "age": 28,
+    "date_of_birth": "1995-03-02",
+    "phone_number": "+3344556677",
+    "country": "Germany",
+    "languages": [
+      "German",
+      "English"
+    ]
+  },
+  {
+    "name": "Michael Wilson",
+    "email": "michael.wilson@example.com",
+    "age": 42,
+    "date_of_birth": "1981-09-15",
+    "phone_number": "+5566778899",
+    "country": "United Kingdom",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Sophia Brown",
+    "email": "sophia.brown@example.com",
+    "age": 31,
+    "date_of_birth": "1992-04-18",
+    "phone_number": "+9988776655",
+    "country": "France",
+    "languages": [
+      "French",
+      "English"
+    ]
+  },
+  {
+    "name": "David Miller",
+    "email": "david.miller@example.com",
+    "age": 29,
+    "date_of_birth": "1994-12-05",
+    "phone_number": "+1122334455",
+    "country": "United States",
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Olivia Taylor",
+    "email": "olivia.taylor@example.com",
+    "age": 27,
+    "date_of_birth": "1996-08-25",
+    "phone_number": "+1122334455",
+    "country": "Canada",
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Daniel Lee",
+    "email": "daniel.lee@example.com",
+    "age": 34,
+    "date_of_birth": "1989-10-30",
+    "phone_number": "+1122334455",
+    "country": "Japan",
+    "languages": [
+      "Japanese",
+      "English"
+    ]
+  },
+  {
+    "name": "Isabella Martinez",
+    "email": "isabella.martinez@example.com",
+    "age": 26,
+    "date_of_birth": "1997-07-12",
+    "phone_number": "+1122334455",
+    "country": "Spain",
+    "languages": [
+      "Spanish",
+      "English"
+    ]
+  },
+  {
+    "name": "William Kim",
+    "email": "william.kim@example.com",
+    "age": 33,
+    "date_of_birth": "1990-02-28",
+    "phone_number": "+1122334455",
+    "country": "South Korea",
+    "languages": [
+      "Korean",
+      "English"
+    ]
+  }
+]
