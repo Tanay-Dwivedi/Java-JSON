@@ -1,5 +1,11 @@
 package javajson;
 
+import lombok.*;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+
 public class Person {
 
     private String name;
